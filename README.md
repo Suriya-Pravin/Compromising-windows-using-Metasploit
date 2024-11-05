@@ -1,7 +1,7 @@
-### Date:
+### Date: 23/09/2024
 # Ex-6: Compromising-windows-using-Metasploit
 Compromising windows using Metasploit
-#### Metasploit
+### Metasploit
 Compromising windows using Metasploit
 
 ## AIM:
